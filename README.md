@@ -17,25 +17,15 @@ just copy the `multicalendar_libs, multicalendar.inx, and multicalendar.py` into
 Cannot find your inkscape user's extensions folder?, 
 check `Edit > Preferences > System > User Extensions`
 
-This extension also available in Gipmpscape PPA, to activate Gimpscape PPA please follow steps below:
-
-```bash
-curl -s --compressed "https://gimpscape.github.io/gimpscape-ppa/tools/KEY.gpg" | sudo apt-key add -
-
-sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/tools/gimpscape-ppa.list"
-
-sudo apt update && sudo apt install multicalendar
-```
 
 ## How to Use
-Open this menu: `Extensions > Render > Multicalendar`
+Open this menu: `Extensions > Render > Multicalendar2`
 
 ## Features
-- [x] Hijri Calendar 
+-  
 ...
 
 ## Changelog
 See [Changelog](CHANGELOG.md)
 
-## Donation
-You can donate to support this project by visiting https://devlovers.netlify.app
+

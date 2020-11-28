@@ -3,8 +3,7 @@
 This project is extended version of svgcalendar from Aurelio A. Heckert (2008). Upstream version
 already included in inkscape release as main extension (see changelog).
 
-The aim of this fork is to add new features, such as Hijri Calendar, Local Calendar (Javanese), update UI and more.
-Hijri calendar is based on Kuwaiti Algorithm.
+The aim of this fork is to ADAPT ARTEMTECH's version to INDIAN BENGALI CALENDAR
 
 ## Requirements
 
